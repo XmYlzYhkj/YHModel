@@ -265,3 +265,13 @@ EEE MMM dd HH:mm:ss Z yyyy
 文档
 ==============
 你可以在 [CocoaDocs](http://cocoadocs.org/docsets/YYModel/) 查看在线 API 文档，也可以用 [appledoc](https://github.com/tomaz/appledoc) 本地生成文档。
+
+
+# 版本记录
+## V1.0.1
+
+2020年04月20日
+
+```
+1、deployment target设为 iOS 8.0
+```

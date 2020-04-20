@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7fqoTwt10xjUE2BKKQydx9jGdWs=
+		GAzttJ2sV7LN34gLePQO9Ud1JS4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -29,6 +29,10 @@
 	<dict>
 		<key>Headers/NSObject+YHModel.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			U6ruLyJ7noNLt5a+3AfZ06gd2EQ=
+			</data>
 			<key>hash2</key>
 			<data>
 			uNXLqlqM/x1+fKTHfEp1z+RKGAbk00SKDMYP6LSaKOU=
@@ -36,6 +40,10 @@
 		</dict>
 		<key>Headers/YHClassInfo.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			pD9/tG2nJaxB+qx0veAOxDc9ZY4=
+			</data>
 			<key>hash2</key>
 			<data>
 			0gjrcrI5uSVFJNLCJFn17gpgE2eLFxBFeG0oBbIKIWY=
@@ -43,6 +51,10 @@
 		</dict>
 		<key>Headers/YHModel.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			ZCg/hxFj6k7QoxJDruL0hbktEOg=
+			</data>
 			<key>hash2</key>
 			<data>
 			c40iB/aWNOuALg6fsa5MRZrLoKxrJ3H6vMUkx739fXk=
@@ -50,6 +62,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			L3OKyppvbk+W7LQnNIBQfFgiO44=
+			</data>
 			<key>hash2</key>
 			<data>
 			vXEtvGeKfwEiWy0i2VG6A0g97RcENcTz5CGYkXCic/w=
